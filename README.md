@@ -43,7 +43,7 @@ For Setup and Software Installation Refer to:
 
 ---
 
-## Running
+## Usage
 
 Perform the necessary Installations
 
